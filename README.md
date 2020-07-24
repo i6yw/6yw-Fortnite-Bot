@@ -39,7 +39,7 @@ Step 4.
 
 Step 5.
 
-> Open "config.json" and fill out the bot's information. (<a href="https://discord.gg/FT" target="_blank">Guide</a>)
+> Open "config.json" and fill out the bot's information. (<a href="https://github.com/i6yw/6yw/wiki/Config-Guide" target="_blank">Guide</a>)
 
 Step 6.
 
@@ -48,7 +48,8 @@ Step 6.
 
 Step 7.
 
-> Enjoy the bot! For a full list of commands, check out the <a href="https://discord.gg/FT" target="_blank">Command Wiki</a>
+> Enjoy the bot! For a full list of commands, check out the <a href="
+https://github.com/i6yw/6yw/wiki/Commands">Command Wiki</a>
 
 
 ## Deployment
