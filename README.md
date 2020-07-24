@@ -48,8 +48,7 @@ Step 6.
 
 Step 7.
 
-> Enjoy the bot! For a full list of commands, check out the <a href="
-https://github.com/i6yw/6yw/wiki/Commands">Command Wiki</a>
+> Enjoy the bot! For a full list of commands, check out the <a href="https://github.com/i6yw/6yw/wiki/Commands">Command Wiki</a>
 
 
 ## Deployment
