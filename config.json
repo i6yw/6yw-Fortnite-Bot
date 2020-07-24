@@ -1,6 +1,6 @@
 {
-    "email": "usecodew4i@gmail.com",
-    "password": "12345678w4i",
+    "email": "",
+    "password": "",
     "cid": "CID_028_Athena_Commando_F",
     "bid": "BID_004_BlackKnight",
     "pid": "Pickaxe_Lockjaw",
@@ -11,6 +11,6 @@
     "status": "Tik Tok i6yww",
     "platform": "PSN",
     "friendaccept": "True",
-    "joinoninvite": "False",
-    "AdminPassword": "2222"
+    "joinoninvite": "True",
+    "AdminPassword": "0001"
 }
