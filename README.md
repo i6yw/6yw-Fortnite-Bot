@@ -54,7 +54,7 @@ Step 7.
 
 If it prompts for an authorization code, get the code from <a href="https://www.epicgames.com/id/logout?redirectUrl=https%3A//www.epicgames.com/id/login%3FredirectUrl%3Dhttps%253A%252F%252Fwww.epicgames.com%252Fid%252Fapi%252Fredirect%253FclientId%253D3446cd72694c4a4485d81b77adbb2141%2526responseType%253Dcode" target="_blank">here</a>
 
-If you have any other issues / questions, feel free to join our <a href="https://discord.gg/FT" target="_blank">Discord server</a> or check out the <a href="https://www.instagram.com/_6yw/" target="_blank">FAQ</a>
+If you have any other issues / questions, feel free to join our <a href="" target="_blank">Discord server</a> or check out the <a href="https://www.instagram.com/_6yw/" target="_blank">FAQ</a>
 
 ## Acknowledgments
 
