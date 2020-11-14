@@ -2,7 +2,6 @@
 
 An expansive Fortnite lobby bot with a handful of features.
 
-> Discord server: <a href="https://discord.gg/FT" target="_blank">6yw Bots</a>
 
 ## Getting Started
 
